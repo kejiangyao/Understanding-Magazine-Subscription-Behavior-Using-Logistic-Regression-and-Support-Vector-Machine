@@ -16,7 +16,7 @@ Build an SVM model to accurately predict subscription behavior. Discuss which va
 Part 4:
 Compare the accuracy of both models (overall accuracy, precision, recall) and the overall variables that were deemed significant. Discuss which model you would recommend based upon these three metrics.
 
-	Both of these four parts will be completed using Python on Jupyter Notebook. Necessary codes and visuals will be attached directly within this report, and the full python script will be submitted separately in another file. 
+Both of these four parts will be completed using Python on Jupyter Notebook. Necessary codes and visuals will be attached directly within this report, and the full python script will be submitted separately in another file. 
 
 
 
