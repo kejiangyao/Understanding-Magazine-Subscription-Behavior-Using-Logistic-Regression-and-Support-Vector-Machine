@@ -1,0 +1,1 @@
+# Understanding-Magazine-Subscription-Behavior-Using-Logistic-Regression-and-Support-Vector-Machine
